@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.greybeetle213.twa",
+        "sha256_cert_fingerprints": ["FF:AE:43:24:73:97:D0:92:51:BD:03:AC:83:6D:04:2A:8B:0A:13:E2:92:AF:AA:53:99:ED:F3:76:8B:FC:FE:42"]
+      }
+    }]
